@@ -4,5 +4,5 @@ module com.murzik.keyboardrace {
 
 
     opens com.murzik.keyboardrace to javafx.fxml;
-    exports com.murzik.keyboardrace;
+    exports com.murzik.keyboardrace.client;
 }
